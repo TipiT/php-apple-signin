@@ -2,9 +2,8 @@
 
 namespace AppleSignIn;
 
-use AppleSignIn\Vendor\JWK;
-use AppleSignIn\Vendor\JWT;
-
+use Firebase\JWT;
+use Firebase\JWK;
 use Exception;
 
 /**
