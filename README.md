@@ -8,7 +8,7 @@ Installation
 Use composer to manage your dependencies and download php-apple-signin:
 
 ```bash
-composer require tipit/php-apple-signin
+composer require tipi/php-apple-signin
 ```
 
 Example
